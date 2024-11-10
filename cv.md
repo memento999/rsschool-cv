@@ -34,7 +34,6 @@ const fibonacci = (function() {
 ## Education
 - **Bachelor of Science in Computer Science** (Incomplete) | University of Georgia | 2016 - 2020
 - **Courses**:
-  - **Complete Web Development Bootcamp** (Udemy) | 2023
   - **Python for Data Science** (Coursera) | 2022
   - **JavaScript Algorithms and Data Structures** (freeCodeCamp) | 2023
 
