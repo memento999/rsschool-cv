@@ -30,3 +30,18 @@ const fibonacci = (function() {
   };
 })();
 ```
+
+## Education
+- **Bachelor of Science in Computer Science** (Incomplete) | University of Georgia | 2016 - 2020
+- **Courses**:
+  - **Complete Web Development Bootcamp** (Udemy) | 2023
+  - **Python for Data Science** (Coursera) | 2022
+  - **JavaScript Algorithms and Data Structures** (freeCodeCamp) | 2023
+
+## Georgian
+- **Level**: fluent
+- **Practice**: I have been practicing English for over 6 years through online courses, daily interactions with English speakers, and watching English programming tutorials. I also write technical documentation and contribute to open-source projects in English.
+## English
+- **Level**: advanced
+## Russian
+- **Level**: intermediate
