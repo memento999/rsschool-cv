@@ -16,3 +16,17 @@ As a passionate and motivated Junior Developer, I am eager to contribute my skil
 - **Version Control**: Git, GitHub
 - **Databases**: MySQL, MongoDB
 - **Web Development**: HTML5, CSS3
+
+## Code Examples
+### 1. **Fibonacci with Memoization (Optimized)**
+```javascript
+const fibonacci = (function() {
+  const memo = {};
+  return function fib(n) {
+    if (n <= 1) return n;
+    if (memo[n]) return memo[n];
+    memo[n] = fib(n - 1) + fib(n - 2);
+    return memo[n];
+  };
+})();
+```
